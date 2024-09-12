@@ -1,0 +1,254 @@
+.Topbarwrapper{
+    height:60px;
+    width:100%;
+
+    font-weight: bold;
+    background-color: blue;
+    color:white;
+    margin-top: 18px;
+    margin-block-start: 0em !important;
+    display: inline-flex;
+    border-radius: 10px;
+}
+
+.Topbarwrapper >h2{
+    margin-block-start: 0em !important;
+    padding-top:18px;
+    padding-left:10px;
+  
+}
+.Topbarwrapper svg{
+    top: 21px;
+}
+.Searchbar{
+    height:30px;
+    width:40%;
+    margin-top:18px;
+    padding-left: 5%;
+    background-color: white;
+    border-radius:30px;
+    border: none;
+    
+}    
+.logo{
+    padding: 11px,0px,0px,30px;
+    margin:0px;
+    margin-left:5px;
+}
+.Search{
+    position: relative;
+    padding-left: 17%;
+    padding-top: 22px;
+    top: 2%;
+    right: -3%;
+    filter: invert(1);
+
+}
+.righticons{
+    margin-top: 18px;
+}
+img{
+    height:30px;
+    border-radius:50%;
+
+}
+.img1{
+ 
+    height:30px;
+    width:30px;
+    border-radius:50%;
+
+}
+
+.one{
+    height: 10px;
+    border-radius: 50%;
+    margin-left: -39%;
+    margin-top: 0px;
+    position: relative;
+    top: -17px;
+
+}
+
+.two{
+        height: 10px;
+        border-radius: 50%;
+        margin-left: -44%;
+        margin-top: 0px;
+        position: relative;
+        top: -17px;
+    
+    }
+
+ .three{
+    
+        height: 10px;
+        border-radius: 50%;
+        margin-left: 16%;
+        margin-top: 0px;
+        position: relative;
+        top: -17px;
+    }
+
+.sidebar{
+    position: relative;
+    margin-left:0%;
+    margin-top:-15px;
+    height:800px;
+    width:300px;
+    border: 5px solid gray;
+    top:15px;
+    padding-top:10px;
+    padding-left:10px;
+    overflow: auto;
+    border:none;
+    overflow: scroll;
+
+
+}
+.sidecontain{
+   padding-top: -70px;
+   display: inline-flex;
+}
+h6{
+    position:relative;
+    margin:0px;
+    margin-left:11px;
+    font-style: initial;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+button{
+    margin-left:20px;
+    border-radius: 10px;
+    border:none;
+}
+.line{
+    border:2px solid gray;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+}
+.midcontain{
+    position: absolute;
+    height:160px;
+    width:650px;
+    margin-left:25%;
+    margin-top:-780px;
+    display:inline-flex;
+    box-shadow: 0px 0px 15px;
+    border-radius: 20px;
+}
+.img2{
+    margin-left:5px;
+    margin-top:20px;
+    height:50px;
+    width:50px;
+}
+.input1{
+    border:2px solid gray;
+    margin-left:2px;
+    padding-right: 400px;
+    padding-bottom:30px;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    height:50px;
+    margin-top:15px;
+
+}
+.midvalues{
+    position: relative;
+    margin-left:-580px;
+    margin-top: 120px;
+    margin-right:20px;
+    display:inline-flex;
+}
+
+.photos svg{
+    color:#ff0000;
+}
+.photos1 svg{
+    color:blue;
+}
+.photos2 svg{
+    color:green;
+}
+.photos3 svg{
+    color:yellow;
+}
+
+
+h4{
+    margin: -25px;
+    margin-left:25px;
+    
+}
+
+.button2{
+    position: relative;
+    background-color: green;
+    color:white;
+    height:30px;
+    width:auto;
+    margin-top:-5px;
+}
+.mid{
+    position:absolute;
+    margin-left:340px;
+    margin-top:-610px;
+    padding-top:40px;
+    padding-left:10px;
+    display:inline-flex;
+    box-shadow: 0px 0px 15px;
+    height:600px;
+    width:650px;
+    border-radius: 25px;
+}
+
+.Dhonicontain{
+    margin-left:10px;
+    display: inline-flex;
+}
+.p1{
+    position: relative;
+    margin-left:10px;
+    margin-top:5px;
+    
+}
+.par{
+    margin-left:370px;
+    margin-top:-550px;
+    word-spacing: 15px;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+}
+.food{
+    margin-left:370px;
+    width:600px;
+    height:400px;
+    background-image: url('./food.jpeg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.rightbar{
+    position:absolute;
+    margin-top:-730px;
+    margin-left:75%;
+    width:320px;
+    height:800px;
+    display:inline-flex;
+}
+.p2{
+    margin-top:2px;
+    word-spacing: 5px;
+}
+.mcdonald{
+    position:absolute;
+    margin-top:70px;
+    height:600px;
+    width:400px;
+    background-repeat: no-repeat;
+    background-image: url('Fries.jpeg');
+    background-size:contain;
+}
